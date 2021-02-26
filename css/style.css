@@ -52,6 +52,7 @@
 #navbar ul li a:hover{
     color: black;
     background-color: white;
+    text-decoration: underline;
 }
 
 /* Home Section  */
@@ -152,6 +153,9 @@
     justify-content: center;
     align-items: center;
 }
+#contact h1{
+    font-size: 3rem;
+}
 
 #contact-box label{
     font-size: 2rem;
@@ -198,6 +202,8 @@ footer{
 }
 .btn:hover{
     cursor: pointer;
+    background-color: seagreen;
+    text-decoration: underline;
 }
 
 .center{
